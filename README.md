@@ -1,0 +1,2 @@
+# Give-Me-Some-Credit
+The aim of this project is to improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years. Credit scoring algorithms, which make a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted. The goal of this project is to help build a model that borrowers can use to help make the best financial decisions. Historical data are provided on 250,000 borrowers. 
